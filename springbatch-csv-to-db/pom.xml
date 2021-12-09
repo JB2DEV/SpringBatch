@@ -8,7 +8,7 @@
 		<version>2.6.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>gft.springbatch</groupId>
+	<groupId>springbatch</groupId>
 	<artifactId>springbatch-csv_to_mysql</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springbatch-csv_to_mysql</name>
