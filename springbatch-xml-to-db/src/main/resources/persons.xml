@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+    <person>
+        <personId>1</personId>
+        <firstName>PETER</firstName>
+        <lastName>SCHMIDT</lastName>
+        <email>pschmidt0@aboutads.info</email>
+        <age>28</age>
+    </person>
+    <person>
+        <personId>2</personId>
+        <firstName>CHRISTINA</firstName>
+        <lastName>HART</lastName>
+        <email>chart1@dropbox.com</email>
+        <age>29</age>
+    </person>
+    <person>
+        <personId>3</personId>
+        <firstName>JANET</firstName>
+        <lastName>WARREN</lastName>
+        <email>jwarren2@hc360.com</email>
+        <age>21</age>
+    </person>
+</persons>
